@@ -1,0 +1,1025 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e514b143-0f09-48de-85f1-ba1dcf617b2d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Licensing/GPL.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Licensing/README_License.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/.hugo_build.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/.prettierrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/archetypes/default.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/config.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/content/_index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/content/blog/_index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/content/blog/another-journey-chamber-way-yet-females-man.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/content/blog/carried-nothing-on-am-warrant-towards.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/content/blog/good-draw-knew-bred-ham-busy-his-hour.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/content/blog/he-as-compliment-unreserved-projecting.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/content/blog/is-we-miles-ready-he-might-going.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/content/blog/luckily-friends-do-ashamed-to-do-suppose.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/content/blog/their-could-can-widen-ten-she-any.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/content/pack-1/abstractart.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/content/pack-1/alien.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/content/pack-1/aurora.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/content/pack-1/coalesce.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/content/pack-1/connections.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/content/pack-1/dots.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/content/pack-1/gravity.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/content/pack-1/heuristics.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/content/pack-1/html5-video.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/content/pack-1/liquid.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/content/pack-1/magneto.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/content/pack-1/mosaic.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/content/pack-1/orbit.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/content/pack-1/pipeline.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/content/pack-1/rain-video.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/content/pack-1/shift.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/content/pack-1/stardust.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/content/pack-1/starfield.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/content/pack-1/surface.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/content/pack-1/swirl.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/content/pack-2/birds.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/content/pack-2/boreal-sky.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/content/pack-2/brick-tunnel.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/content/pack-2/clouds.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/content/pack-2/colors.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/content/pack-2/confetti-lines.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/content/pack-2/coronavirus.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/content/pack-2/glitch.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/content/pack-2/globe.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/content/pack-2/hawking.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/content/pack-2/hills.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/content/pack-2/landscape-2.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/content/pack-2/landscape.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/content/pack-2/net.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/content/pack-2/physics.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/content/pack-2/quantum.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/content/pack-2/star-wars.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/content/pack-2/stars-lines.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/content/pack-2/topology.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/content/pack-2/triangle.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/content/pack-2/water-droplet.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/content/search/_index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/content/single-image/balls.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/content/single-image/bubbles.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/content/single-image/confetti.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/content/single-image/constellation.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/content/single-image/fireworks.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/content/single-image/geometric.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/content/single-image/low-poly.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/content/single-image/particles.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/content/single-image/rain.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/content/single-image/rainbow-squares.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/content/single-image/shooting-stars.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/content/single-image/winter.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/content/slideshow-images/balls.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/content/slideshow-images/bubbles.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/content/slideshow-images/classic.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/content/slideshow-images/confetti.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/content/slideshow-images/constellation.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/content/slideshow-images/fireworks.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/content/slideshow-images/geometric.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/content/slideshow-images/low-poly.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/content/slideshow-images/particles.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/content/slideshow-images/rainbow-squares.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/content/slideshow-images/shooting-stars.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/content/slideshow-images/winter.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/content/youtube-background/balls.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/content/youtube-background/bubbles.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/content/youtube-background/classic.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/content/youtube-background/confetti.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/content/youtube-background/constellation.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/content/youtube-background/fireworks.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/content/youtube-background/geometric.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/content/youtube-background/low-poly.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/content/youtube-background/particles.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/content/youtube-background/rainbow-squares.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/content/youtube-background/shooting-stars.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/content/youtube-background/winter.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/data/home.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/netlify.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/background.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/blog/another-journey-chamber-way-yet-females-man/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/blog/carried-nothing-on-am-warrant-towards/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/blog/good-draw-knew-bred-ham-busy-his-hour/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/blog/he-as-compliment-unreserved-projecting/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/blog/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/blog/index.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/blog/is-we-miles-ready-he-might-going/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/blog/luckily-friends-do-ashamed-to-do-suppose/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/blog/page/1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/blog/page/2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/blog/their-could-can-widen-ten-she-any/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/categories/creative/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/categories/creative/index.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/categories/creative/page/1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/categories/development/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/categories/development/index.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/categories/development/page/1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/categories/development/page/2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/categories/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/categories/index.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/categories/page/1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/fonts/JetBrainsMono-Regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/fonts/JetBrainsSans-Regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/images/3abc2df9-14eb-4932-bd1f-899393a24c3f.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/images/Burning Coals.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/images/about-section.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/images/background1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/images/background2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/images/background3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/images/background4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/images/blog1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/images/blog2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/images/blog3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/images/blog4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/images/blog5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/images/blog6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/images/blog7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/images/contact-section.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/images/effects/clouds/noise.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/images/effects/landscape/pallete.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/images/effects/landscape/pallete2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/images/effects/rain/drop-alpha.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/images/effects/rain/drop-color.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/images/effects/water/alpha.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/images/effects/water/shine.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/images/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/images/galaxyTexture.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/images/glitch.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/images/h1-bg-white.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/images/h1-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/images/html5-poster.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/images/icon-controller.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/images/icon-location.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/images/logo - Copy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/images/rain-video-poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/images/rain.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/images/services-section.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/images/stonePattern.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/images/subscribe-section.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/images/team-section.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/images/team1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/images/team2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/images/team3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/images/team4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/images/water-droplet.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/images/youtube-poster.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/index.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/index.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/javascript.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/js/app.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/pack-1/abstractart/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/pack-1/alien/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/pack-1/aurora/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/pack-1/coalesce/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/pack-1/connections/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/pack-1/dots/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/pack-1/gravity/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/pack-1/heuristics/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/pack-1/html5-video/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/pack-1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/pack-1/index.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/pack-1/liquid/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/pack-1/magneto/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/pack-1/mosaic/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/pack-1/orbit/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/pack-1/page/1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/pack-1/page/2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/pack-1/page/3/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/pack-1/page/4/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/pack-1/page/5/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/pack-1/pipeline/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/pack-1/rain-video/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/pack-1/shift/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/pack-1/stardust/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/pack-1/starfield/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/pack-1/surface/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/pack-1/swirl/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/pack-2/birds/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/pack-2/boreal-sky/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/pack-2/brick-tunnel/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/pack-2/clouds/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/pack-2/colors/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/pack-2/confetti-lines/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/pack-2/coronavirus/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/pack-2/glitch/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/pack-2/globe/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/pack-2/hawking/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/pack-2/hills/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/pack-2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/pack-2/index.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/pack-2/landscape-2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/pack-2/landscape/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/pack-2/net/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/pack-2/page/1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/pack-2/page/2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/pack-2/page/3/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/pack-2/page/4/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/pack-2/page/5/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/pack-2/page/6/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/pack-2/physics/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/pack-2/quantum/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/pack-2/star-wars/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/pack-2/stars-lines/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/pack-2/topology/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/pack-2/triangle/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/pack-2/water-droplet/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/plugins/YTPlayer/jquery.mb.YTPlayer.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/plugins/ajaxchimp/jquery.ajaxchimp.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/plugins/animate/animate.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/plugins/aos/aos.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/plugins/aos/aos.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/plugins/appear/jquery.appear.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/plugins/backstretch/backstretch.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/plugins/bootstrap/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/plugins/countTo/jquery.countTo.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/plugins/countdown/countdown.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/plugins/effects/abstractart/abstractart.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/plugins/effects/alien/alien.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/plugins/effects/aurora/aurora.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/plugins/effects/balls/balls.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/plugins/effects/birds/birds.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/plugins/effects/birds/three.r92.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/plugins/effects/boreal-sky/boreal-sky.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/plugins/effects/boreal-sky/vendors.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/plugins/effects/brick-tunnel/brick-tunnel.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/plugins/effects/brick-tunnel/infinitetubes.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/plugins/effects/bubbles/bubbles.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/plugins/effects/clouds/clouds.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/plugins/effects/clouds/three.r92.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/plugins/effects/coalesce/coalesce.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/plugins/effects/colors/colors.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/plugins/effects/colors/vendors.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/plugins/effects/confetti-lines/confetti-lines.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/plugins/effects/confetti-lines/vendors.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/plugins/effects/confetti/confetti.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/plugins/effects/connections/connections.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/plugins/effects/constellation/constellation.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/plugins/effects/coronavirus/BokehShader2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/plugins/effects/coronavirus/OrbitControls.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/plugins/effects/coronavirus/STLLoader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/plugins/effects/coronavirus/coronavirus3d.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/plugins/effects/coronavirus/dat.gui.module.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/plugins/effects/coronavirus/stats.module.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/plugins/effects/coronavirus/three.module.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/plugins/effects/coronavirus/virus2.stl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/plugins/effects/dots/dots.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/plugins/effects/dots/three.r92.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/plugins/effects/fireworks/fireworks.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/plugins/effects/geometric/geometric.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/plugins/effects/glitch/glitch.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/plugins/effects/glitch/three.r92.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/plugins/effects/globe/globe.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/plugins/effects/globe/three.r92.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/plugins/effects/gravity/gravity.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/plugins/effects/hawking/decorative.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/plugins/effects/hawking/hawking.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/plugins/effects/heuristics/decorative.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/plugins/effects/heuristics/heuristics.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/plugins/effects/hills/hills.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/plugins/effects/hills/three.r92.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/plugins/effects/landscape/landscape-style1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/plugins/effects/landscape/landscape-style2.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/plugins/effects/landscape/landscape.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/plugins/effects/liquid/liquid.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/plugins/effects/low-poly/low-poly.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/plugins/effects/magneto/magneto.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/plugins/effects/mosaic/mosaic.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/plugins/effects/net/net.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/plugins/effects/net/three.r92.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/plugins/effects/orbit/orbit.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/plugins/effects/particles/particles.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/plugins/effects/physics/decorative.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/plugins/effects/physics/physics.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/plugins/effects/pipeline/pipeline.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/plugins/effects/quantum/decorative.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/plugins/effects/quantum/quantum.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/plugins/effects/rain/rain-video.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/plugins/effects/rain/rain.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/plugins/effects/rainbow-squares/rainbow-squares.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/plugins/effects/shift/filter-polyfill.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/plugins/effects/shift/shift.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/plugins/effects/shooting-stars/shooting-stars.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/plugins/effects/star-wars/infinitetubes.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/plugins/effects/star-wars/star-wars.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/plugins/effects/stardust/stardust.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/plugins/effects/starfield/starfield.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/plugins/effects/stars-lines/stars-lines.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/plugins/effects/stars-lines/vendors.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/plugins/effects/surface/surface.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/plugins/effects/swirl/swirl.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/plugins/effects/topology/p5.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/plugins/effects/topology/three.r92.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/plugins/effects/topology/topology.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/plugins/effects/triangle/infinitetubes.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/plugins/effects/triangle/triangle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/plugins/effects/water-droplet/water-droplet.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/plugins/effects/water-droplet/water.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/plugins/effects/winter/winter.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/plugins/font-awesome/css/all.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/plugins/font-awesome/webfonts/fa-brands-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/plugins/font-awesome/webfonts/fa-brands-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/plugins/font-awesome/webfonts/fa-duotone-900.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/plugins/font-awesome/webfonts/fa-duotone-900.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/plugins/font-awesome/webfonts/fa-light-300.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/plugins/font-awesome/webfonts/fa-light-300.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/plugins/font-awesome/webfonts/fa-regular-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/plugins/font-awesome/webfonts/fa-regular-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/plugins/font-awesome/webfonts/fa-sharp-light-300.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/plugins/font-awesome/webfonts/fa-sharp-light-300.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/plugins/font-awesome/webfonts/fa-sharp-regular-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/plugins/font-awesome/webfonts/fa-sharp-regular-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/plugins/font-awesome/webfonts/fa-sharp-solid-900.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/plugins/font-awesome/webfonts/fa-sharp-solid-900.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/plugins/font-awesome/webfonts/fa-solid-900.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/plugins/font-awesome/webfonts/fa-solid-900.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/plugins/font-awesome/webfonts/fa-thin-100.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/plugins/font-awesome/webfonts/fa-thin-100.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/plugins/font-awesome/webfonts/fa-v4compatibility.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/plugins/font-awesome/webfonts/fa-v4compatibility.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/plugins/fonts/css/all.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/plugins/fonts/webfonts/fa-brands-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/plugins/fonts/webfonts/fa-brands-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/plugins/fonts/webfonts/fa-duotone-900.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/plugins/fonts/webfonts/fa-duotone-900.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/plugins/fonts/webfonts/fa-light-300.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/plugins/fonts/webfonts/fa-light-300.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/plugins/fonts/webfonts/fa-regular-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/plugins/fonts/webfonts/fa-regular-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/plugins/fonts/webfonts/fa-sharp-duotone-solid-900.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/plugins/fonts/webfonts/fa-sharp-duotone-solid-900.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/plugins/fonts/webfonts/fa-sharp-light-300.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/plugins/fonts/webfonts/fa-sharp-light-300.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/plugins/fonts/webfonts/fa-sharp-regular-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/plugins/fonts/webfonts/fa-sharp-regular-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/plugins/fonts/webfonts/fa-sharp-solid-900.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/plugins/fonts/webfonts/fa-sharp-solid-900.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/plugins/fonts/webfonts/fa-sharp-thin-100.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/plugins/fonts/webfonts/fa-sharp-thin-100.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/plugins/fonts/webfonts/fa-solid-900.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/plugins/fonts/webfonts/fa-solid-900.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/plugins/fonts/webfonts/fa-thin-100.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/plugins/fonts/webfonts/fa-thin-100.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/plugins/fonts/webfonts/fa-v4compatibility.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/plugins/fonts/webfonts/fa-v4compatibility.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/plugins/fuse/fuse.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/plugins/html5Player/vidbg.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/plugins/jQuery/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/plugins/search/search.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/plugins/sharer/sharer.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/plugins/slicknav/jquery.slicknav.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/plugins/slicknav/slicknav.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/plugins/validate/jquery.validate.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/plugins/wow/wow.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/scss/app.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/search/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/search/index.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/search/page/1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/single-image/balls/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/single-image/bubbles/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/single-image/confetti/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/single-image/constellation/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/single-image/fireworks/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/single-image/geometric/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/single-image/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/single-image/index.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/single-image/low-poly/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/single-image/page/1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/single-image/page/2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/single-image/page/3/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/single-image/particles/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/single-image/rain/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/single-image/rainbow-squares/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/single-image/shooting-stars/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/single-image/winter/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/sitemap.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/slideshow-images/balls/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/slideshow-images/bubbles/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/slideshow-images/classic/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/slideshow-images/confetti/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/slideshow-images/constellation/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/slideshow-images/fireworks/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/slideshow-images/geometric/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/slideshow-images/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/slideshow-images/index.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/slideshow-images/low-poly/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/slideshow-images/page/1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/slideshow-images/page/2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/slideshow-images/page/3/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/slideshow-images/particles/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/slideshow-images/rainbow-squares/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/slideshow-images/shooting-stars/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/slideshow-images/winter/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/tags/golang/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/tags/golang/index.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/tags/golang/page/1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/tags/hugo/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/tags/hugo/index.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/tags/hugo/page/1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/tags/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/tags/index.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/tags/page/1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/tags/programming/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/tags/programming/index.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/tags/programming/page/1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/tags/website/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/tags/website/index.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/tags/website/page/1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/technologies.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/video/big_buck_bunny_720p_1mb.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/video/rain_video.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/webstorm-icon-logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/webstorm-logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/youtube-background/balls/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/youtube-background/bubbles/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/youtube-background/classic/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/youtube-background/confetti/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/youtube-background/constellation/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/youtube-background/fireworks/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/youtube-background/geometric/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/youtube-background/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/youtube-background/index.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/youtube-background/low-poly/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/youtube-background/page/1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/youtube-background/page/2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/youtube-background/page/3/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/youtube-background/particles/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/youtube-background/rainbow-squares/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/youtube-background/shooting-stars/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public - Copy/youtube-background/winter/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/background.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/blog/another-journey-chamber-way-yet-females-man/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/blog/carried-nothing-on-am-warrant-towards/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/blog/good-draw-knew-bred-ham-busy-his-hour/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/blog/he-as-compliment-unreserved-projecting/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/blog/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/blog/index.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/blog/is-we-miles-ready-he-might-going/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/blog/luckily-friends-do-ashamed-to-do-suppose/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/blog/page/1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/blog/page/2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/blog/their-could-can-widen-ten-she-any/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/categories/creative/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/categories/creative/index.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/categories/creative/page/1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/categories/development/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/categories/development/index.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/categories/development/page/1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/categories/development/page/2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/categories/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/categories/index.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/categories/page/1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/fonts/JetBrainsMono-Regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/fonts/JetBrainsSans-Regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/images/1-b6ac58eb.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/images/3abc2df9-14eb-4932-bd1f-899393a24c3f.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/images/Burning Coals.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/images/about-section.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/images/background1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/images/background2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/images/background3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/images/background4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/images/blog1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/images/blog2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/images/blog3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/images/blog4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/images/blog5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/images/blog6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/images/blog7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/images/contact-section.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/images/effects/clouds/noise.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/images/effects/landscape/pallete.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/images/effects/landscape/pallete2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/images/effects/rain/drop-alpha.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/images/effects/rain/drop-color.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/images/effects/water/alpha.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/images/effects/water/shine.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/images/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/images/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/images/galaxyTexture.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/images/glitch.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/images/h1-bg-white.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/images/h1-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/images/html5-poster.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/images/icon-controller.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/images/icon-location.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/images/logo - Copy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/images/rain-video-poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/images/rain.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/images/services-section.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/images/stonePattern.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/images/subscribe-section.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/images/team-section.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/images/team1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/images/team2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/images/team3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/images/team4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/images/water-droplet.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/images/youtube-poster.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/index.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/index.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/javascript.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/js/app.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/pack-1/abstractart/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/pack-1/alien/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/pack-1/aurora/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/pack-1/coalesce/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/pack-1/connections/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/pack-1/dots/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/pack-1/gravity/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/pack-1/heuristics/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/pack-1/html5-video/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/pack-1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/pack-1/index.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/pack-1/liquid/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/pack-1/magneto/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/pack-1/mosaic/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/pack-1/orbit/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/pack-1/page/1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/pack-1/page/2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/pack-1/page/3/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/pack-1/page/4/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/pack-1/page/5/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/pack-1/pipeline/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/pack-1/rain-video/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/pack-1/shift/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/pack-1/stardust/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/pack-1/starfield/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/pack-1/surface/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/pack-1/swirl/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/pack-2/birds/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/pack-2/boreal-sky/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/pack-2/brick-tunnel/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/pack-2/clouds/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/pack-2/colors/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/pack-2/confetti-lines/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/pack-2/coronavirus/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/pack-2/glitch/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/pack-2/globe/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/pack-2/hawking/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/pack-2/hills/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/pack-2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/pack-2/index.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/pack-2/landscape-2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/pack-2/landscape/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/pack-2/net/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/pack-2/page/1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/pack-2/page/2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/pack-2/page/3/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/pack-2/page/4/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/pack-2/page/5/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/pack-2/page/6/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/pack-2/physics/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/pack-2/quantum/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/pack-2/star-wars/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/pack-2/stars-lines/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/pack-2/topology/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/pack-2/triangle/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/pack-2/water-droplet/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/plugins/YTPlayer/jquery.mb.YTPlayer.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/plugins/ajaxchimp/jquery.ajaxchimp.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/plugins/animate/animate.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/plugins/aos/aos.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/plugins/aos/aos.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/plugins/appear/jquery.appear.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/plugins/backstretch/backstretch.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/plugins/bootstrap/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/plugins/countTo/jquery.countTo.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/plugins/countdown/countdown.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/plugins/effects/abstractart/abstractart.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/plugins/effects/alien/alien.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/plugins/effects/aurora/aurora.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/plugins/effects/balls/balls.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/plugins/effects/birds/birds.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/plugins/effects/birds/three.r92.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/plugins/effects/boreal-sky/boreal-sky.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/plugins/effects/boreal-sky/vendors.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/plugins/effects/brick-tunnel/brick-tunnel.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/plugins/effects/brick-tunnel/infinitetubes.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/plugins/effects/bubbles/bubbles.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/plugins/effects/clouds/clouds.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/plugins/effects/clouds/three.r92.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/plugins/effects/coalesce/coalesce.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/plugins/effects/colors/colors.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/plugins/effects/colors/vendors.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/plugins/effects/confetti-lines/confetti-lines.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/plugins/effects/confetti-lines/vendors.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/plugins/effects/confetti/confetti.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/plugins/effects/connections/connections.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/plugins/effects/constellation/constellation.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/plugins/effects/coronavirus/BokehShader2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/plugins/effects/coronavirus/OrbitControls.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/plugins/effects/coronavirus/STLLoader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/plugins/effects/coronavirus/coronavirus3d.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/plugins/effects/coronavirus/dat.gui.module.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/plugins/effects/coronavirus/stats.module.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/plugins/effects/coronavirus/three.module.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/plugins/effects/coronavirus/virus2.stl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/plugins/effects/dots/dots.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/plugins/effects/dots/three.r92.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/plugins/effects/fireworks/fireworks.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/plugins/effects/geometric/geometric.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/plugins/effects/glitch/glitch.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/plugins/effects/glitch/three.r92.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/plugins/effects/globe/globe.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/plugins/effects/globe/three.r92.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/plugins/effects/gravity/gravity.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/plugins/effects/hawking/decorative.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/plugins/effects/hawking/hawking.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/plugins/effects/heuristics/decorative.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/plugins/effects/heuristics/heuristics.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/plugins/effects/hills/hills.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/plugins/effects/hills/three.r92.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/plugins/effects/landscape/landscape-style1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/plugins/effects/landscape/landscape-style2.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/plugins/effects/landscape/landscape.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/plugins/effects/liquid/liquid.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/plugins/effects/low-poly/low-poly.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/plugins/effects/magneto/magneto.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/plugins/effects/mosaic/mosaic.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/plugins/effects/net/net.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/plugins/effects/net/three.r92.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/plugins/effects/orbit/orbit.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/plugins/effects/particles/particles.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/plugins/effects/physics/decorative.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/plugins/effects/physics/physics.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/plugins/effects/pipeline/pipeline.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/plugins/effects/quantum/decorative.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/plugins/effects/quantum/quantum.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/plugins/effects/rain/rain-video.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/plugins/effects/rain/rain.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/plugins/effects/rainbow-squares/rainbow-squares.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/plugins/effects/shift/filter-polyfill.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/plugins/effects/shift/shift.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/plugins/effects/shooting-stars/shooting-stars.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/plugins/effects/star-wars/infinitetubes.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/plugins/effects/star-wars/star-wars.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/plugins/effects/stardust/stardust.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/plugins/effects/starfield/starfield.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/plugins/effects/stars-lines/stars-lines.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/plugins/effects/stars-lines/vendors.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/plugins/effects/surface/surface.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/plugins/effects/swirl/swirl.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/plugins/effects/topology/p5.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/plugins/effects/topology/three.r92.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/plugins/effects/topology/topology.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/plugins/effects/triangle/infinitetubes.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/plugins/effects/triangle/triangle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/plugins/effects/water-droplet/water-droplet.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/plugins/effects/water-droplet/water.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/plugins/effects/winter/winter.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/plugins/font-awesome/css/all.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/plugins/font-awesome/webfonts/fa-brands-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/plugins/font-awesome/webfonts/fa-brands-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/plugins/font-awesome/webfonts/fa-duotone-900.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/plugins/font-awesome/webfonts/fa-duotone-900.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/plugins/font-awesome/webfonts/fa-light-300.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/plugins/font-awesome/webfonts/fa-light-300.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/plugins/font-awesome/webfonts/fa-regular-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/plugins/font-awesome/webfonts/fa-regular-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/plugins/font-awesome/webfonts/fa-sharp-light-300.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/plugins/font-awesome/webfonts/fa-sharp-light-300.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/plugins/font-awesome/webfonts/fa-sharp-regular-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/plugins/font-awesome/webfonts/fa-sharp-regular-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/plugins/font-awesome/webfonts/fa-sharp-solid-900.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/plugins/font-awesome/webfonts/fa-sharp-solid-900.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/plugins/font-awesome/webfonts/fa-solid-900.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/plugins/font-awesome/webfonts/fa-solid-900.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/plugins/font-awesome/webfonts/fa-thin-100.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/plugins/font-awesome/webfonts/fa-thin-100.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/plugins/font-awesome/webfonts/fa-v4compatibility.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/plugins/font-awesome/webfonts/fa-v4compatibility.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/plugins/fonts/css/all.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/plugins/fonts/webfonts/fa-brands-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/plugins/fonts/webfonts/fa-brands-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/plugins/fonts/webfonts/fa-duotone-900.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/plugins/fonts/webfonts/fa-duotone-900.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/plugins/fonts/webfonts/fa-light-300.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/plugins/fonts/webfonts/fa-light-300.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/plugins/fonts/webfonts/fa-regular-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/plugins/fonts/webfonts/fa-regular-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/plugins/fonts/webfonts/fa-sharp-duotone-solid-900.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/plugins/fonts/webfonts/fa-sharp-duotone-solid-900.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/plugins/fonts/webfonts/fa-sharp-light-300.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/plugins/fonts/webfonts/fa-sharp-light-300.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/plugins/fonts/webfonts/fa-sharp-regular-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/plugins/fonts/webfonts/fa-sharp-regular-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/plugins/fonts/webfonts/fa-sharp-solid-900.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/plugins/fonts/webfonts/fa-sharp-solid-900.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/plugins/fonts/webfonts/fa-sharp-thin-100.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/plugins/fonts/webfonts/fa-sharp-thin-100.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/plugins/fonts/webfonts/fa-solid-900.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/plugins/fonts/webfonts/fa-solid-900.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/plugins/fonts/webfonts/fa-thin-100.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/plugins/fonts/webfonts/fa-thin-100.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/plugins/fonts/webfonts/fa-v4compatibility.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/plugins/fonts/webfonts/fa-v4compatibility.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/plugins/fuse/fuse.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/plugins/html5Player/vidbg.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/plugins/jQuery/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/plugins/search/search.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/plugins/sharer/sharer.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/plugins/slicknav/jquery.slicknav.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/plugins/slicknav/slicknav.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/plugins/validate/jquery.validate.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/plugins/wow/wow.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/scss/app.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/search/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/search/index.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/search/page/1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/single-image/balls/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/single-image/bubbles/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/single-image/confetti/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/single-image/constellation/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/single-image/fireworks/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/single-image/geometric/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/single-image/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/single-image/index.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/single-image/low-poly/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/single-image/page/1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/single-image/page/2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/single-image/page/3/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/single-image/particles/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/single-image/rain/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/single-image/rainbow-squares/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/single-image/shooting-stars/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/single-image/winter/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/sitemap.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/slideshow-images/balls/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/slideshow-images/bubbles/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/slideshow-images/classic/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/slideshow-images/confetti/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/slideshow-images/constellation/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/slideshow-images/fireworks/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/slideshow-images/geometric/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/slideshow-images/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/slideshow-images/index.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/slideshow-images/low-poly/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/slideshow-images/page/1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/slideshow-images/page/2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/slideshow-images/page/3/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/slideshow-images/particles/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/slideshow-images/rainbow-squares/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/slideshow-images/shooting-stars/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/slideshow-images/winter/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/tags/golang/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/tags/golang/index.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/tags/golang/page/1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/tags/hugo/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/tags/hugo/index.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/tags/hugo/page/1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/tags/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/tags/index.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/tags/page/1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/tags/programming/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/tags/programming/index.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/tags/programming/page/1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/tags/website/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/tags/website/index.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/tags/website/page/1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/technologies.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/video/big_buck_bunny_720p_1mb.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/video/rain_video.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/webstorm-icon-logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/webstorm-logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/youtube-background/balls/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/youtube-background/bubbles/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/youtube-background/classic/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/youtube-background/confetti/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/youtube-background/constellation/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/youtube-background/fireworks/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/youtube-background/geometric/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/youtube-background/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/youtube-background/index.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/youtube-background/low-poly/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/youtube-background/page/1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/youtube-background/page/2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/youtube-background/page/3/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/youtube-background/particles/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/youtube-background/rainbow-squares/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/youtube-background/shooting-stars/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/public/youtube-background/winter/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/resources/_gen/assets/scss/app.scss_8eb8c3e1c83e81a3be17b8e96be1a8e3.content" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/resources/_gen/assets/scss/app.scss_8eb8c3e1c83e81a3be17b8e96be1a8e3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/resources/_gen/assets/scss/scss/app.scss_170188855d14d903eca10cc8b6dffa74.content" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/resources/_gen/assets/scss/scss/app.scss_170188855d14d903eca10cc8b6dffa74.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/resources/_gen/assets/scss/scss/app.scss_b95b077eb505d5c0aff8055eaced30ad.content" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/resources/_gen/assets/scss/scss/app.scss_b95b077eb505d5c0aff8055eaced30ad.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/resources/_gen/assets/scss/scss/main.scss_b95b077eb505d5c0aff8055eaced30ad.content" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/resources/_gen/assets/scss/scss/main.scss_b95b077eb505d5c0aff8055eaced30ad.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/resources/_gen/assets/scss/scss/style.scss_b95b077eb505d5c0aff8055eaced30ad.content" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/resources/_gen/assets/scss/scss/style.scss_b95b077eb505d5c0aff8055eaced30ad.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/src/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/static/images/about-section.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/static/images/background1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/static/images/background2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/static/images/background3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/static/images/background4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/static/images/blog1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/static/images/blog2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/static/images/blog3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/static/images/blog4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/static/images/blog5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/static/images/blog6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/static/images/blog7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/static/images/contact-section.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/static/images/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/static/images/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/static/images/galaxyTexture.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/static/images/glitch.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/static/images/html5-poster.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/static/images/icon-location.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/static/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/static/images/rain-video-poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/static/images/rain.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/static/images/services-section.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/static/images/stonePattern.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/static/images/subscribe-section.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/static/images/team-section.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/static/images/team1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/static/images/team2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/static/images/team3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/static/images/team4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/static/images/water-droplet.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/static/images/youtube-poster.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/static/video/big_buck_bunny_720p_1mb.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/static/video/rain_video.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/themes/woody/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/themes/woody/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/themes/woody/README_License.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/themes/woody/archetypes/default.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/themes/woody/assets/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/themes/woody/assets/scss/_layout.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/themes/woody/assets/scss/_setting.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/themes/woody/assets/scss/app.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/themes/woody/exampleSite/config.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/themes/woody/exampleSite/content/_index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/themes/woody/exampleSite/content/blog/_index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/themes/woody/exampleSite/content/blog/another-journey-chamber-way-yet-females-man.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/themes/woody/exampleSite/content/blog/carried-nothing-on-am-warrant-towards.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/themes/woody/exampleSite/content/blog/good-draw-knew-bred-ham-busy-his-hour.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/themes/woody/exampleSite/content/blog/he-as-compliment-unreserved-projecting.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/themes/woody/exampleSite/content/blog/is-we-miles-ready-he-might-going.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/themes/woody/exampleSite/content/blog/luckily-friends-do-ashamed-to-do-suppose.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/themes/woody/exampleSite/content/blog/their-could-can-widen-ten-she-any.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/themes/woody/exampleSite/content/pack-1/abstractart.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/themes/woody/exampleSite/content/pack-1/alien.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/themes/woody/exampleSite/content/pack-1/aurora.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/themes/woody/exampleSite/content/pack-1/coalesce.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/themes/woody/exampleSite/content/pack-1/connections.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/themes/woody/exampleSite/content/pack-1/dots.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/themes/woody/exampleSite/content/pack-1/gravity.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/themes/woody/exampleSite/content/pack-1/heuristics.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/themes/woody/exampleSite/content/pack-1/html5-video.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/themes/woody/exampleSite/content/pack-1/liquid.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/themes/woody/exampleSite/content/pack-1/magneto.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/themes/woody/exampleSite/content/pack-1/mosaic.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/themes/woody/exampleSite/content/pack-1/orbit.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/themes/woody/exampleSite/content/pack-1/pipeline.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/themes/woody/exampleSite/content/pack-1/rain-video.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/themes/woody/exampleSite/content/pack-1/shift.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/themes/woody/exampleSite/content/pack-1/stardust.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/themes/woody/exampleSite/content/pack-1/starfield.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/themes/woody/exampleSite/content/pack-1/surface.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/themes/woody/exampleSite/content/pack-1/swirl.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/themes/woody/exampleSite/content/pack-2/birds.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/themes/woody/exampleSite/content/pack-2/boreal-sky.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/themes/woody/exampleSite/content/pack-2/brick-tunnel.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/themes/woody/exampleSite/content/pack-2/clouds.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/themes/woody/exampleSite/content/pack-2/colors.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/themes/woody/exampleSite/content/pack-2/confetti-lines.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/themes/woody/exampleSite/content/pack-2/coronavirus.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/themes/woody/exampleSite/content/pack-2/glitch.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/themes/woody/exampleSite/content/pack-2/globe.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/themes/woody/exampleSite/content/pack-2/hawking.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/themes/woody/exampleSite/content/pack-2/hills.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/themes/woody/exampleSite/content/pack-2/landscape-2.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/themes/woody/exampleSite/content/pack-2/landscape.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/themes/woody/exampleSite/content/pack-2/net.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/themes/woody/exampleSite/content/pack-2/physics.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/themes/woody/exampleSite/content/pack-2/quantum.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/themes/woody/exampleSite/content/pack-2/star-wars.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/themes/woody/exampleSite/content/pack-2/stars-lines.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/themes/woody/exampleSite/content/pack-2/topology.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/themes/woody/exampleSite/content/pack-2/triangle.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/themes/woody/exampleSite/content/pack-2/water-droplet.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/themes/woody/exampleSite/content/search/_index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/themes/woody/exampleSite/content/single-image/balls.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/themes/woody/exampleSite/content/single-image/bubbles.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/themes/woody/exampleSite/content/single-image/confetti.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/themes/woody/exampleSite/content/single-image/constellation.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/themes/woody/exampleSite/content/single-image/fireworks.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/themes/woody/exampleSite/content/single-image/geometric.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/themes/woody/exampleSite/content/single-image/low-poly.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/themes/woody/exampleSite/content/single-image/particles.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/themes/woody/exampleSite/content/single-image/rain.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/themes/woody/exampleSite/content/single-image/rainbow-squares.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/themes/woody/exampleSite/content/single-image/shooting-stars.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/themes/woody/exampleSite/content/single-image/winter.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/themes/woody/exampleSite/content/slideshow-images/balls.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/themes/woody/exampleSite/content/slideshow-images/bubbles.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/themes/woody/exampleSite/content/slideshow-images/classic.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/themes/woody/exampleSite/content/slideshow-images/confetti.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/themes/woody/exampleSite/content/slideshow-images/constellation.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/themes/woody/exampleSite/content/slideshow-images/fireworks.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/themes/woody/exampleSite/content/slideshow-images/geometric.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/themes/woody/exampleSite/content/slideshow-images/low-poly.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/themes/woody/exampleSite/content/slideshow-images/particles.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/themes/woody/exampleSite/content/slideshow-images/rainbow-squares.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/themes/woody/exampleSite/content/slideshow-images/shooting-stars.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/themes/woody/exampleSite/content/slideshow-images/winter.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/themes/woody/exampleSite/content/youtube-background/balls.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/themes/woody/exampleSite/content/youtube-background/bubbles.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/themes/woody/exampleSite/content/youtube-background/classic.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/themes/woody/exampleSite/content/youtube-background/confetti.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/themes/woody/exampleSite/content/youtube-background/constellation.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/themes/woody/exampleSite/content/youtube-background/fireworks.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/themes/woody/exampleSite/content/youtube-background/geometric.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/themes/woody/exampleSite/content/youtube-background/low-poly.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/themes/woody/exampleSite/content/youtube-background/particles.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/themes/woody/exampleSite/content/youtube-background/rainbow-squares.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/themes/woody/exampleSite/content/youtube-background/shooting-stars.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/themes/woody/exampleSite/content/youtube-background/winter.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/themes/woody/exampleSite/data/home.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/themes/woody/exampleSite/netlify.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/themes/woody/exampleSite/resources/_gen/assets/scss/app.scss_8eb8c3e1c83e81a3be17b8e96be1a8e3.content" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/themes/woody/exampleSite/resources/_gen/assets/scss/app.scss_8eb8c3e1c83e81a3be17b8e96be1a8e3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/themes/woody/theme.toml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "EmberedDreams"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/EmberedDreams/EmberedDreams.github.io.git",
+    "accountId": "5958e57d-bfb7-437d-948d-5d671425d8b3"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="38t6BDqS7cp51rZlSIgY3OwhWQZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
+    "git-widget-placeholder": "master",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-41e8cd69c857-64d779b69b7a-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.26927.90" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e514b143-0f09-48de-85f1-ba1dcf617b2d" name="Changes" comment="" />
+      <created>1769606383325</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1769606383325</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="sitemap.xml" />
+  </component>
+</project>
